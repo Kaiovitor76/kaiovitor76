@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ⛅
 
-<!--
-**Kaiovitor76/kaiovitor76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Kaio Vitor 
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.br
+- estou me desenvolvendo na linguagem Javascript
+- utilizo esse espaço para projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo📧
+
+00001120265484sp@al.educacao.sp.gov.com
+
+@kaio_vitorzin
+
+
+![gif](https://github.com/user-attachments/assets/0d8afe23-174b-43c7-8685-308c0f5680de)
